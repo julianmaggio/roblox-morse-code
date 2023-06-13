@@ -1,6 +1,6 @@
-# Morse Code Conversion Scripts
+# Morse Code Conversion Scripts (Roblox)
 
-This repository contains two scripts that allow you to convert text to Morse code and visualize it using different methods. Additionally, a third script is provided that prints out the Morse code without any visualization.
+This repository contains two scripts that allow you to convert text to Morse code and visualize it using different methods in the Roblox platform. Additionally, a third script is provided that prints out the Morse code without any visualization.
 
 ## Script 1: Beep Sound Conversion
 
@@ -8,10 +8,10 @@ This script uses a beep sound to represent the Morse code. Each dot is represent
 
 ### Usage
 
-1. Replace the value of `BeepSound` with the name of your sound object.
+1. Replace the value of `BeepSound` with the name of your sound object in the Roblox workspace.
 2. Adjust the values of `DotDuration`, `DashDuration`, `BeepPitch`, and `ConversionInterval` to your desired settings.
 3. Replace the value of `textToConvert` inside the `startConversion` function with your desired text input.
-4. Run the script.
+4. Run the script within the Roblox environment.
 
 ## Script 2: Light Flicker Conversion
 
@@ -19,10 +19,10 @@ This script uses a light source to represent the Morse code. Each dot is represe
 
 ### Usage
 
-1. Replace the value of `Light` with the name of your light object.
+1. Replace the value of `Light` with the name of your light object in the Roblox workspace.
 2. Adjust the values of `FlickerDuration`, `FlickerIntensity`, and `ConversionInterval` to your desired settings.
 3. Replace the value of `textToConvert` inside the `startConversion` function with your desired text input.
-4. Run the script.
+4. Run the script within the Roblox environment.
 
 ## Script 3: Morse Code Printing
 
@@ -31,6 +31,6 @@ This script prints out the Morse code without any visualization. It takes the in
 ### Usage
 
 1. Replace the value of `textToConvert` inside the `startConversion` function with your desired text input.
-2. Run the script.
+2. Run the script within the Roblox environment.
 
-Feel free to modify these scripts to suit your specific needs and integrate them into your projects. Enjoy Morse code conversion and exploration!
+Please note that these scripts are designed to be used within the Roblox platform and rely on specific objects and functionalities provided by Roblox. Feel free to modify these scripts to suit your specific needs and integrate them into your Roblox projects. Enjoy Morse code conversion and exploration in Roblox!
